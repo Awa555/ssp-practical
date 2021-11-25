@@ -2,30 +2,30 @@
 <menu>
     <section name="Drinks">
         <entry>
-            <item>Apple Juice</item>
-            <price>2.00</price>
+            <item>Coke</item>
+            <price>2.50</price>
         </entry>
         <entry>
-            <item>Latte</item>
-            <price>2.00</price>
+            <item>Vodka</item>
+            <price>15</price>
         </entry>
         <entry vegetarian="true">
             <item>Kombucha</item>
-            <price>2.00</price>
+            <price>2.0</price>
         </entry>
     </section>
     <section name="Side Dishes">
         <entry>
-            <item>Chicken Salad</item>
+            <item>Potato Salad</item>
             <price>4.95</price>
         </entry>
         <entry>
-            <item>Miso Soup</item>
-            <price>4.95</price>
+            <item>Chips</item>
+            <price>4.50</price>
         </entry>
         <entry vegetarian="true">
-            <item>Potato Salad</item>
-            <price>4.95</price>
+            <item>Rice</item>
+            <price>4.0</price>
         </entry>
     </section>
     <section name="Breakfast">
@@ -34,26 +34,26 @@
             <price>12.99</price>
         </entry>
         <entry>
-            <item>Breakfast Burrito</item>
-            <price>12.99</price>
+            <item>Pouched Eggs</item>
+            <price>8</price>
         </entry>
         <entry vegetarian="true">
-            <item>Eggs Benedict</item>
-            <price>12.99</price>
+            <item>French Toast</item>
+            <price>10</price>
         </entry>
     </section>
     <section name="Lunch">
         <entry>
-            <item>Fish and chips</item>
-            <price>12.99</price>
+            <item>Grilled Chicken Sandwich</item>
+            <price>7.50</price>
         </entry>
         <entry>
-            <item>Grilled Chicken Sandwich</item>
-            <price>12.99</price>
+            <item>Soup of the Day</item>
+            <price>6</price>
         </entry>
         <entry vegetarian="true">
-            <item>Cheese sandwich</item>
-            <price>12.99</price>
+            <item>Falafel</item>
+            <price>10</price>
         </entry>
     </section>
     <section name="Dinner">
@@ -62,12 +62,12 @@
             <price>19.99</price>
         </entry>
         <entry>
-            <item>Fried chicken</item>
-            <price>19.99</price>
+            <item>Sushi</item>
+            <price>15</price>
         </entry>
         <entry vegetarian="true">
-            <item>Pizza</item>
-            <price>19.99</price>
+            <item>Shakshuka</item>
+            <price>15</price>
         </entry>
     </section>
 </menu>
